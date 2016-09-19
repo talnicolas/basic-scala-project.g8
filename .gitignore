@@ -1,10 +1,6 @@
 *.class
 *.log
-.idea/
-project/project/
-project/target/
-log/
-lib/
+
 dist/*
 target/
 boot/
