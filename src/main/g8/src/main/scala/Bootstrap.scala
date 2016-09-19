@@ -1,8 +1,7 @@
 package $organization$.$name;format="lower,word"$
 
-object HelloWorld {
+object Bootstrap extends App {
   def main(args: Array[String]) {
-    println("Hello World!!!")
+    println("All set.")
   }
 }
-
